@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # routine reads all devices currently accessible via pyvisa interface (USB and LAN)
 
-
 import sys
 import re
 from PyQt6.QtCore import Qt, QThreadPool, QRunnable, pyqtSignal, QObject

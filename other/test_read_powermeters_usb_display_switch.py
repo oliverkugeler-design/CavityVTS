@@ -13,6 +13,7 @@ from PyQt6.QtWidgets import (
 )
 import pyqtgraph as pg
 
+
 # ---- VISA / PyVISA
 try:
     import pyvisa

@@ -5,6 +5,7 @@ import sys, time
 from collections import deque
 from typing import List
 
+
 from PyQt6.QtCore import Qt, QThread, pyqtSignal, pyqtSlot
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
